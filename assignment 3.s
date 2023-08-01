@@ -2,7 +2,7 @@
 //Store decimal 15 in register R5.
 //If the number in R0 is greater than R1, perform two logical left shifts on register R5, then proceed to terminate the program.
 //If the number in R0 is less than R1, perform one logical right shift on register R5, then proceed to terminate the program.
-//If both the numbers are equal, perform one right rotation on register R5,  then proceed to terminate the program.
+//If both the numbers are equal, perform one right rotation on register R5,  then proceed to terminate the program
 
 .global _start
 _start:
